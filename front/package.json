@@ -23,7 +23,7 @@
     "serverless-mysql": "^1.5.0",
     "sql-template-strings": "^2.2.2",
     "webpack": "^4.39.1",
-    "yarn": "^1.17.3"
+    "yarn": "^1.22.0"
   },
   "devDependencies": {
     "json-server": "^0.15.0"
